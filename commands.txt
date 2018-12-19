@@ -1,0 +1,15 @@
+Project Setup
+----------------------------------------------------------
+1) Install Nodejs
+
+2) Go to command prompt and run below command to download and install angular cli globally
+
+npm install -g @angular/cli@latest
+
+3) Go to directory where you want to create the angular project and run command to create the angular app
+
+ng new angular-app
+
+4) Go to newly created folder and run command to run the app at localhost:4200
+
+ng serve
