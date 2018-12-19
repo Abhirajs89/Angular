@@ -18,6 +18,6 @@ ng serve
 
 npm install --save bootstrap@3
 
-6) Create Components with CLI using below command
+6) Create Components with CLI using below command - Test
 
 ng g c servers
