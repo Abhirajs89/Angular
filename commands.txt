@@ -13,3 +13,7 @@ ng new angular-app
 4) Go to newly created folder and run command to run the app at localhost:4200
 
 ng serve
+
+5) Install bootstrap 3 for css styling into the project locally 
+
+npm install --save bootstrap@3
