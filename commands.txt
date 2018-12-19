@@ -17,3 +17,7 @@ ng serve
 5) Install bootstrap 3 for css styling into the project locally 
 
 npm install --save bootstrap@3
+
+6) Create Components with CLI using below command
+
+ng g c servers
